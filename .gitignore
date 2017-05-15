@@ -1,2 +1,7 @@
-tile_placements.csv
-place.gif
+*.fasl
+
+# Ignore eveything...
+/*
+
+# Except for these subdirs
+!place
